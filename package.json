@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Kami-bit789/nauka-gita-2#readme",
   "devDependencies": {
     "browser-sync": "^2.26.13"
-  }
+  },
+  "dependencies": {}
 }
